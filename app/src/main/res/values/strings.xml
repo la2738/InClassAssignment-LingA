@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">0313</string>
+    <string name="true_button">TRUE</string>
+<string name="false_button">FALSE</string>
+<string name="question_text">You are the prettiest person in the world.</string>
+<string name="correct_toast">Correct!</string>
+<string name="incorrect_toast">Incorrect!</string>
+<string name="question_australia">Canberra is the capital of Australia</string>
+<string name="question_oceans">the Pacific ocean is larger than the Atlantic Ocean</string>
+<string name="question_mideast">The Suez Canal connects the Red Sea and the Indian Ocean</string>
+<string name="question_africa">The source of the Nile River is in Egypt</string>
+<string name="question_america">The Amazon river is the longest river in the world</string>
+<string name="warning_text">Are you sure you want to do this?</string>
+<string name="australia">Australia</string>
+    <string name="africa">Africa</string>
+    <string name="asia">Asia</string>
+    <string name="middle_east">Middle East</string>
+    <string name="oceans">Oceans</string>
+    <string name="americas">America</string>
+
+
+</resources>
